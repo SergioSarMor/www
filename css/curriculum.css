@@ -2,12 +2,36 @@
     font-family: 'Oswald', sans-serif;
 }
 
-#personal > ul {
-
+#caja {
+    background-color: #655CE6;
 }
 
-h1 {
-    color: rgb(23, 228, 255);
-    background-color: red;
-    border: 4px solid pink;
+#linea_decorativa {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+}
+
+header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#foto {
+    width: 21%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#personal {
+    float: right;
+    width: 50%;
+}
+
+#personal > ul > li {
+    font-size: 85%;
+}
+
+article {
+    margin-top: 10px;
 }
