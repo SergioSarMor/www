@@ -29,8 +29,12 @@ header {
     width: 50%;
 }
 
+ul{
+    font-size: 90%;
+}
+
 #personal > ul > li {
-    font-size: 85%;
+
 }
 
 article {
